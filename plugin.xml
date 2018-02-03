@@ -16,7 +16,7 @@
             </separator>
          </menu>
          
-         <!-- added view for a new code smell: switch statement smell -->
+         <!-- added view for a new code smell: switch statement smell   -->
          <action
                class="gr.uom.java.jdeodorant.refactoring.actions.BadSmellsMenu"
                icon="icons/repair.png"
